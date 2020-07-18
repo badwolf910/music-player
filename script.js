@@ -12,8 +12,9 @@ const cover = document.getElementById('cover');
 // Song titles
 const songs = [
   'altj',
-  'awolnation',
+  'awol',
   'basenji',
+  'breezeblocks',
   'feathers',
   'fkaTwigs',
   'flume',
