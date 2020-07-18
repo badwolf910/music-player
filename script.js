@@ -12,13 +12,19 @@ const cover = document.getElementById('cover');
 // Song titles
 const songs = [
   'altj',
-  'awol',
+  'awolnation',
   'basenji',
   'feathers',
+  'fkaTwigs',
+  'flume',
   'genius',
   'gravity',
+  'james_blake_chance_the_rapper',
   'jaiwolf',
   'wonder',
+  'sade',
+  'bieber',
+  'sevdaliza',
 ];
 
 // Keep track of song
